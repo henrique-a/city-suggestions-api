@@ -1,4 +1,4 @@
-# Buzz Solutions Coding Challenge
+# City suggestions API
 
 This project is developed using FastAPI and ElasticSearch to provide autocomplete suggestions for large cities in the USA and Canada with a population above 5000 people. The suggestions are scored and can be influenced by the caller's location, if provided.
 
